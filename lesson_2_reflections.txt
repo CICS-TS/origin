@@ -9,9 +9,11 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	Use git add to add files to the staging area before issuing git commit
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	Whenever I want to make changes to the code without 'upsetting' the offical (master) version
 
 How do the diagrams help you visualize the branch structure?
 
